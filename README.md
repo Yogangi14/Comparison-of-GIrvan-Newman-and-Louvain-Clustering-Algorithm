@@ -178,23 +178,6 @@ Algorithm	Time Complexity
 Girvan–Newman	(O(nm^2)) (worst case)
 Louvain	Approximately (O(n\log n)) in practice
 
-## Usage
-
-Run Girvan–Newman:
-
-```bash
-python src/girvan_newman.py
-```
-
-Run Louvain:
-
-```bash
-python src/louvain.py
-```
-
-Or execute the Jupyter notebooks for step-by-step analysis.
-
----
 
 ## Evaluation Metrics
 
