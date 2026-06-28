@@ -1,5 +1,4 @@
-# Comparison-of-GIrvan-Newman-and-Louvain-Clustering-Algorithm
-Just an attempt to implement using Girvan-Newman and Louvain.
+
 # Community Detection in Networks using Girvan–Newman and Louvain Algorithms
 
 ## Overview
